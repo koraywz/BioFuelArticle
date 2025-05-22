@@ -22,7 +22,7 @@ The report investigates the **economic impact, production potential, and sustain
   * High production costs
   * Competition with food supply
   * Policy and infrastructure limitations
-* Future Outlook:** Technological advancements such as second and third-generation biofuels, and their potential to enhance sustainability.
+* Future Outlook: Technological advancements such as second and third-generation biofuels, and their potential to enhance sustainability.
 
  Team Members:
 
@@ -38,5 +38,5 @@ Dr. Arif Karabuğa
 
  Institution:
 
-Istanbul Atlas University – Faculty of Engineering and Natural Sciences**
+Istanbul Atlas University – Faculty of Engineering and Natural Sciences
 Academic Year: 2024
